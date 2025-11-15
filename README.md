@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🎮 Creator of the Unity anomaly automation game. Beta on itch.io: https://krolti.itch.io/pine-company<br>🔭 I’m currently working on my game and on Database SO - c# unity framework to create quick databases using Scriptable Objects<br>
+🎮 Creator of the Unity anomalous factory-buildingg game. Beta on itch.io: https://krolti.itch.io/pine-company<br>🔭 I’m currently working on my game and on Database SO - c# unity framework to create quick databases using Scriptable Objects<br>
 
 
 # 💻 Tech Stack:
